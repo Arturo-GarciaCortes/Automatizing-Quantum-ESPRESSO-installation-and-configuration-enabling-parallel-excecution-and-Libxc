@@ -1,0 +1,1 @@
+# Automatizing-Quantum-ESPRESSO-installation-and-configuration-enabling-parallel-excecution-and-Libxc
